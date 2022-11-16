@@ -1,0 +1,16 @@
+.container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.card {
+  padding: 20px;
+  width: 30px;
+  text-align: center;
+  border: 2px solid green;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
